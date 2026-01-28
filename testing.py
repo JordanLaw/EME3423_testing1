@@ -13,7 +13,7 @@ def add2 (x1, y1):
 l = add2(30, 40)
 print(l)
 
-
+jgfljfkljhgjklhglj
 
 # x = 0
 # y = 40
@@ -70,3 +70,4 @@ print(l)
 # #     print("True")
 # # else:
 # #     print("False")
+
